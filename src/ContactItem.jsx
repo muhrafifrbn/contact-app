@@ -1,3 +1,4 @@
+/* eslint-disable react/prop-types */
 import ContactItemBody from "./ContactItemBody";
 import ContactItemImage from "./ContactItemImage";
 
