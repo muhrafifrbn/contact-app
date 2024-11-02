@@ -1,4 +1,4 @@
-import ContactApp from "./ContactApp";
+import ContactApp from "./components/ContactApp";
 
 // File CSS local
 import "./assets/style.css";
